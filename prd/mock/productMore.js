@@ -1,0 +1,30 @@
+module.exports=[
+  {
+    'id':'31',
+    "imgsrc":"/images/sh8.jpg",
+    "name":"秋冬围巾",
+    "price":68.0,
+    "saleCount":164
+  },
+  {
+    'id':'32',
+    "imgsrc":"/images/sh9.jpg",
+    "name":"秋冬短靴",
+    "price":195.0,
+    "saleCount":866
+  },
+  {
+    'id':'33',
+    "imgsrc":"/images/sh10.jpg",
+    "name":"韩版冬季针织衫",
+    "price":129.0,
+    "saleCount":181
+  },
+  {
+    'id':'34',
+    "imgsrc":"/images/sh11.jpg",
+    "name":"秋冬针织衫",
+    "price":152.0,
+    "saleCount":544
+  }
+]
